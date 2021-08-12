@@ -19,8 +19,11 @@
 ![N|Solid](https://img.shields.io/badge/Javascript-FFB13B?style=flat-square&logo=Javascript&logoColor=white)
 
 ![N|Solid](https://img.shields.io/badge/Tech_Blog-00B336?style=flat-square&logo=Vimeo&logoColor=white)
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB" />
 
 </p>  
+
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB" />
   
 Here are some ideas to get you started:
 
