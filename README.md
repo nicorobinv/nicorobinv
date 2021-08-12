@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungWonJang&color=gradient)
-### ✨ Tech Stack ✨
+### 
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+
+<p align="center">
 
 ![N|Solid](https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB)
 
@@ -16,6 +20,8 @@
 
 ![N|Solid](https://img.shields.io/badge/Tech_Blog-00B336?style=flat-square&logo=Vimeo&logoColor=white)
 
+</p>  
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
