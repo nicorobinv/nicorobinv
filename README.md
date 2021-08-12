@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungWonJang&color=gradient)
 <!--
 **nicorobinv/nicorobinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=Soft&height=400&text=Hello%20World!&desc=nicorobinv@kakao.com&animation=blink&color=gradient&)
