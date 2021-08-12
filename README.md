@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungWonJang&color=gradient)
 ### ✨ Tech Stack ✨
-<!--
-**nicorobinv/nicorobinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![N|Solid](https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB)
 
@@ -28,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![footer](https://capsule-render.vercel.app/api?type=Soft&height=300&text=Hello%20World!&desc=nicorobinv@kakao.com&animation=blink&color=gradient&)
