@@ -24,7 +24,7 @@
 <div align="center">
 
 <a href="https://nicorobinv.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-00B336?style=flat-square&logo=Vimeo&logoColor=white" /></a>
-<a href="mailto:nicorobinv@kakao.com"><img src="https://img.shields.io/badge/Gmail-00B336?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:nicorobinv@kakao.com"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.nshome.me"><img src="https://img.shields.io/badge/Homepage-FFB13B?style=flat-square&logo=HomeAdvisor&logoColor=white" /></a>
 
   
