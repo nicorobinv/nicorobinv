@@ -27,6 +27,7 @@
 <a href="matilto:nicorobinv@kakao.com"><img src="https://img.shields.io/badge/Gmail-00B336?style=flat-square&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.nshome.me"><img src="https://img.shields.io/badge/Homepage-00B336?style=flat-square&logo=HomeAdvisor&logoColor=white" /></a>
 
+<a href="mailto:kyohoonsim@gmail.com">kyohoonsim@gmail.com</a>  
 
 </p>  
 
