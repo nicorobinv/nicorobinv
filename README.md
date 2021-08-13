@@ -21,7 +21,7 @@
 
 <h3 align="center">🌹 Info 🌹</h3>
 
-<p style="text-align:center;">
+<p style="item-align:center;">
 
 <a href="https://nicorobinv.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-00B336?style=flat-square&logo=Vimeo&logoColor=white" /></a>
 <a href="mailto:nicorobinv@kakao.com"><img src="https://img.shields.io/badge/Gmail-00B336?style=flat-square&logo=Gmail&logoColor=white" /></a>
